@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CassiopeiaeKontroller</string>
+    <string name="add_your_name_commander">Add your name, Commander!</string>
+    <string name="type_your_name_here">Type your name here</string>
+
+    <string name="title_activity_controller">ControllerActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
